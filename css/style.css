@@ -1,0 +1,331 @@
+section{
+	margin:10px 5px;
+	text-align: center;
+}
+.alias button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+}
+.alias button:hover{
+	cursor:alias;
+	background: navy;
+	color:white;
+}
+
+.all-scroll button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+}
+
+.all-scroll button:hover{
+	cursor:all-scroll;
+	background: navy;
+	color:white;
+}
+
+.auto button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+}
+.auto button:hover{
+	background: navy;
+	color:white;
+	cursor: auto;
+}
+
+.cell button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.cell button:hover{
+	background: navy;
+	color:white;
+	cursor: cell;
+}
+.context-menu button {
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+}
+.context-menu button:hover{
+	background: navy;
+	color:white;
+	cursor: context-menu;
+}
+.col-resize button {
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.col-resize button:hover{
+	background: navy;
+	color:white;
+	cursor: col-resize;
+}
+.copy button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.copy button:hover{
+	background: navy;
+	color:white;
+	cursor: copy;
+}
+
+.crosshair button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.crosshair button:hover{
+	background: navy;
+	color:white;
+	cursor: crosshair;
+}
+.default button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.default button:hover{
+	background: navy;
+	color:white;
+	cursor: default;
+}
+.e-resize button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+}
+	
+.e-resize button:hover{
+	background: navy;
+	color:white;
+	cursor: e-resize;
+}
+
+.help button {
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.help button:hover{
+	background: navy;
+	color:white;
+	cursor: help;
+}
+.move button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.move button:hover{
+	background: navy;
+	color:white;
+	cursor: move;
+}
+.n-resize button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.n-resize button:hover{
+	background: navy;
+	color:white;
+	cursor: n-resize;
+}
+.ne-resize button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.ne-resize button:hover{
+	background: navy;
+	color:white;
+	cursor: ne-resize;
+}
+
+.none button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.none button:hover{
+	background: navy;
+	color:white;
+	cursor: none;
+}
+
+.not-allowed button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.not-allowed button:hover{
+	background: navy;
+	color:white;
+	cursor: not-allowed;
+}
+.pointer button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.pointer button:hover{
+	background: navy;
+	color:white;
+	cursor: pointer;
+}
+.progress button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.progress button:hover{
+	background: navy;
+	color:white;
+	cursor: progress;
+}
+.row-resize button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.row-resize button:hover{
+	background: navy;
+	color:white;
+	cursor: row-resize;
+}
+.text button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.text button:hover{
+	background: navy;
+	color:white;
+	cursor: text;
+}
+
+.wait button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.wait button:hover{
+	background: navy;
+	color:white;
+	cursor: wait;
+}
+.zoom-in button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.zoom-in button:hover{
+	background: navy;
+	color:white;
+	cursor: zoom-in;
+}
+.zoom-out button{
+	padding: 10px 20px;
+	background: green;
+	color:white;
+	border:none;
+	font-weight: bold;
+	transition: all .3s ease;
+	
+}
+.zoom-out button:hover{
+	background: navy;
+	color:white;
+	cursor: zoom-out;
+}
